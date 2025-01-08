@@ -2,17 +2,17 @@ body {
     color: blue;
 }
 h1 {
-    background-color: black;
+    background-color: black; padding-left: 100px;
 }
 h2 {
-    background-color: blueviolet;
+    background-color: blueviolet; padding-left: 200px;
 }
 h3 {
-    background-color: aqua;
+    background-color: aqua; padding-left: 300px;
 }
 h4 {
-    background-color: brown;
+    background-color: brown; padding-left: 400px;
 }
 h5 {
-    background-color: burlywood;
+    background-color: burlywood; padding-left: 500px;
 }
